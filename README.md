@@ -1,1 +1,1 @@
-# Readme @ the root of the directory
+# Readme @ the root of the repository.
